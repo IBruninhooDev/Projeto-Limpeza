@@ -54,7 +54,7 @@ Para visualizar o projeto localmente, siga os passos abaixo:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/IBruninhooDev/Projeto-Limpeza-main.git
+git clone https://github.com/IBrunooD3v/Projeto-Limpeza-main.git
 ```
 
 2. **Navegue até o diretório do projeto:**
