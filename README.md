@@ -68,5 +68,5 @@ Simplesmente abra o arquivo index.html em seu navegador web preferido. Não é n
 
 
 ---
-Desenvolvido com :heart: por [BrunoCarus](https://github.com/IBrunooDev) 
+Desenvolvido com :heart: por [BrunoCarus](https://github.com/IBrunooD3v) 
 © 2026 IBrunooDev. Todos os direitos reservados.
