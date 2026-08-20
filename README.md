@@ -1,4 +1,4 @@
-### <h1 align="center"> :computer: Web Site Limpeza :computer:</h1>
+1### <h1 align="center"> :computer: Web Site Limpeza :computer:</h1>
 
 <p align="center">
  <a href="https://limpezaa.netlify.app">Clique Aqui para ir ao Site</a><br/>
@@ -54,7 +54,7 @@ Para visualizar o projeto localmente, siga os passos abaixo:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/IBrunooD3v/Projeto-Limpeza-main.git
+git clone https://github.com/IBrunooDev/Projeto-Limpeza-main.git
 ```
 
 2. **Navegue até o diretório do projeto:**
@@ -68,5 +68,5 @@ Simplesmente abra o arquivo index.html em seu navegador web preferido. Não é n
 
 
 ---
-Desenvolvido com :heart: por [BrunoCarus](https://github.com/IBrunooD3v) 
+Desenvolvido com :heart: por [IBrunooDev](https://github.com/IBrunooDev) 
 © 2026 IBrunooDev. Todos os direitos reservados.
